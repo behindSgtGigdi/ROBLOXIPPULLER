@@ -10,8 +10,6 @@
 ## Features
 - **User-Friendly**: Pull IPs seamlessly with minimal effort.
 - **API Integration**: Designed to interact with the accompanying API for enhanced functionality.
-- **Standalone Application (Coming Soon)**: A dedicated application for easier use.
-
 ---
 
 ## Availability
