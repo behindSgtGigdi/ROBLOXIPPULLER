@@ -4,7 +4,6 @@
 **ROBLOX-IPPULLER** is a tool designed to retrieve the IP of any user in Roblox. Whether you're conducting research or testing network connections, this tool provides a simple and efficient way to interact with user data.
 
 > *Note: This tool is intended for educational and ethical use only.*
-
 ---
 
 ## Features
