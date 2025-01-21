@@ -1,4 +1,11 @@
 # ROBLOX-IPPULLER
+<div>
+    <strong>Server Status: </strong>
+    <a href="https://uptime.betterstack.com/?utm_source=status_badge">
+        <img src="https://uptime.betterstack.com/status-badges/v1/monitor/1p3c7.svg" alt="Better Stack Badge">
+    </a>
+    <br>
+</div>
 
 ## Overview
 **ROBLOX-IPPULLER** is a tool designed to retrieve the IP of any user in Roblox. Whether you're conducting research or testing network connections, this tool provides a simple and efficient way to interact with user data.
