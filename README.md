@@ -1,7 +1,6 @@
 # GigdiPullers - Roblox IP Puller
 
 <div align="center">
-    <img src="https://i.imgur.com/tNcnAJZ.png" alt="GigdiPullers Logo" width="200">
     <br>
     <strong>Server Status:</strong>
     <br>
